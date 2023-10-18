@@ -14,3 +14,5 @@
 ## Team Member
 - Hyunsu Kim (Team Leader)
 - Jeonghoon Lee
+- Yoonjung Lee
+- Eunkyung Cho
