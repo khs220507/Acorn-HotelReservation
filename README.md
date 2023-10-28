@@ -11,8 +11,8 @@
 ![image](https://github.com/khs220507/AcornAcademy_TeamProejct_HotelReservation/assets/129834692/af1b096f-9b76-44b7-bcef-c490b7d4a35a)
 
 
-## Team Member
-- Hyunsu Kim (Team Leader)
+## Project Member
+- Hyunsu Kim (Project Leader)
 - Jeonghoon Lee
 - Yoonjung Lee
 - Eunkyung Cho
